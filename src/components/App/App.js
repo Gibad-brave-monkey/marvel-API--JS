@@ -1,6 +1,6 @@
 import Comics from '../Comics/Comics'
 
-  import './app.css';
+  import './App.css';
 class App {
   async render() {
     await Comics.render();
